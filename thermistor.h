@@ -1,0 +1,1 @@
+extern u8 * thermistor_measure(*temprature);
